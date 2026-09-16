@@ -59,7 +59,8 @@ expire).
    ```
 3. Run the app:
    ```bash
-   streamlit run app.py
+   python -m streamlit run app.py
+
    ```
 
 ## Running Tests
