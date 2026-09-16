@@ -1,0 +1,28 @@
+recipe_name,ingredients,cuisine,prep_time_mins
+Vegetable Poha,"poha, onion, potato, peanuts, mustard seeds, curry leaves, turmeric, lemon",Indian,20
+Masala Omelette,"egg, onion, tomato, green chili, coriander",Indian,10
+Aloo Paratha,"potato, wheat flour, onion, green chili, ghee",Indian,30
+Veg Fried Rice,"rice, capsicum, carrot, peas, onion, soy sauce, garlic",Indo-Chinese,25
+Dal Tadka,"toor dal, onion, tomato, garlic, cumin, turmeric, ghee",Indian,30
+Paneer Bhurji,"paneer, onion, tomato, capsicum, green chili, turmeric",Indian,15
+Curd Rice,"rice, curd, mustard seeds, curry leaves, green chili",Indian,10
+Vegetable Khichdi,"rice, moong dal, carrot, peas, potato, turmeric",Indian,25
+Chana Masala,"chickpeas, onion, tomato, garlic, ginger, garam masala",Indian,35
+Rajma,"kidney beans, onion, tomato, garlic, ginger, garam masala",Indian,40
+Palak Paneer,"spinach, paneer, onion, tomato, garlic, cream",Indian,30
+Egg Curry,"egg, onion, tomato, garlic, ginger, garam masala",Indian,25
+Vegetable Soup,"carrot, peas, potato, onion, garlic, pepper",Continental,20
+Veg Pasta,"pasta, tomato, capsicum, onion, garlic, cheese, oregano",Italian,25
+Grilled Cheese Sandwich,"bread, cheese, butter, tomato",Continental,10
+Vegetable Upma,"semolina, onion, carrot, peas, mustard seeds, curry leaves",Indian,20
+Aloo Sabzi,"potato, onion, tomato, cumin, turmeric",Indian,20
+Bread Omelette,"egg, bread, onion, tomato, butter",Indian,10
+Veg Pulao,"rice, carrot, peas, potato, onion, whole spices",Indian,30
+Curd Sandwich,"bread, curd, cucumber, mint",Indian,10
+Vegetable Stir Fry,"capsicum, carrot, cabbage, garlic, soy sauce",Asian,15
+Rice Kheer,"rice, milk, sugar, cardamom",Indian,30
+Tomato Soup,"tomato, onion, garlic, butter, pepper",Continental,20
+Peanut Butter Toast,"bread, peanut butter, banana",Continental,5
+Chicken Curry,"chicken, onion, tomato, garlic, ginger, garam masala",Indian,40
+Vegetable Cutlet,"potato, peas, carrot, breadcrumbs, green chili",Indian,25
+Masala Chai,"milk, tea leaves, ginger, sugar, cardamom",Indian,10
